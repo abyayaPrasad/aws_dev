@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-02T11:06:56.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Ck6X_grwa6-XStplf15b" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-02T11:53:08.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YMHYq9nNjUf6i_IEaGEV" version="21.3.6" type="github">
   <diagram name="Page-1" id="35pqKoHUVtBYQdD1kzEH">
     <mxGraphModel dx="1172" dy="499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,7 +48,7 @@
         <mxCell id="cvgiTLHkZxJhIL0Y9kGM-5" value="IAM Role to access Shoreline events&lt;br&gt;Create and Update Event Bridge rules&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;to Send Table Status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="843.36" y="210" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cvgiTLHkZxJhIL0Y9kGM-6" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#AD429B;strokeColor=#A6387E;" parent="1" source="cvgiTLHkZxJhIL0Y9kGM-2" target="cvgiTLHkZxJhIL0Y9kGM-1" edge="1">
+        <mxCell id="cvgiTLHkZxJhIL0Y9kGM-6" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#AD429B;strokeColor=#A6387E;entryX=1;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cvgiTLHkZxJhIL0Y9kGM-2" target="cvgiTLHkZxJhIL0Y9kGM-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="180" as="sourcePoint" />
             <mxPoint x="720" y="130" as="targetPoint" />

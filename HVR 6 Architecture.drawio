@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T16:58:55.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ou3mg24MB4KIqbHHSZ26" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T10:22:39.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1TwZvNeqVzJzf9mdfrvF" version="22.1.17" type="github">
   <diagram name="Page-1" id="QW9J66K27Eeg5XZ0BA9y">
-    <mxGraphModel dx="1412" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,10 +35,10 @@
           <mxGeometry x="270" y="-158" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oB9SHBpZaImW0tXjq8WO-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;HVR Prod&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="295" y="-80" width="110" height="40" as="geometry" />
+          <mxGeometry x="304" y="-80" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oB9SHBpZaImW0tXjq8WO-10" value="&lt;b&gt;aviglobalhvrprod&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="290" y="-50" width="120" height="30" as="geometry" />
+          <mxGeometry x="299" y="-50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oB9SHBpZaImW0tXjq8WO-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="oB9SHBpZaImW0tXjq8WO-13" target="oB9SHBpZaImW0tXjq8WO-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="270" y="161" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oB9SHBpZaImW0tXjq8WO-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;HVR Non-Prod&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="275" y="241" width="150" height="40" as="geometry" />
+          <mxGeometry x="284" y="239.5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oB9SHBpZaImW0tXjq8WO-15" value="&lt;b&gt;aviglobalhvrdev&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="295" y="266.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="304" y="266.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oB9SHBpZaImW0tXjq8WO-16" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2E27AD;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.rds_oracle_instance;" parent="1" vertex="1">
           <mxGeometry x="50" y="80" width="78" height="78" as="geometry" />
@@ -154,10 +154,10 @@
         <mxCell id="oB9SHBpZaImW0tXjq8WO-59" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;EC2&lt;br&gt;HVR Agent Server&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="483.25" y="-71.5" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Brc3dHifh2DXMpHkSVCQ-3" value="ornsuzq2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Brc3dHifh2DXMpHkSVCQ-3" value="ornsuzq2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="696" y="180" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Brc3dHifh2DXMpHkSVCQ-4" value="suzhouods-uatdb.nonprod.av.ge.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Brc3dHifh2DXMpHkSVCQ-4" value="suzhouods-uatdb.nonprod.av.ge.com" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="621" y="50" width="240" height="30" as="geometry" />
         </mxCell>
       </root>

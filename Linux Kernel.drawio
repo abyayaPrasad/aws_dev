@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T10:14:04.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="23.1.7" etag="5cCwlY9whmbqtYUgSVjR" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T12:52:28.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="3OSBRpbfy8nuIlI50aYX" version="23.1.7" type="github">
   <diagram name="Page-1" id="wTUrl33j9DZfRB6npE_1">
-    <mxGraphModel>
+    <mxGraphModel dx="933" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bMxOA5HQwM-POskLVUlT-1" value="Software&lt;br&gt;Users Applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxOA5HQwM-POskLVUlT-2" value="Kernel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxOA5HQwM-POskLVUlT-3" value="CPU&lt;br&gt;(Processor)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxOA5HQwM-POskLVUlT-4" value="MEMORY" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxOA5HQwM-POskLVUlT-5" value="Disks" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bMxOA5HQwM-POskLVUlT-11" value="Hardware" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

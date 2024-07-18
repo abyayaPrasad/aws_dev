@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2024-07-18T16:39:42.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YB-AUHRGEsE3sLJfsOrB" version="24.6.5" type="github">
+  <diagram name="Page-1" id="7Vp22LTjwmmahzJpjanX">
+    <mxGraphModel dx="978" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="90" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="91.5" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="230" y="170" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.oracle_db_instance_2;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="170" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1ZmeKRflZKj2q6ikAiIA-4" target="1ZmeKRflZKj2q6ikAiIA-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-4" value="Transactions" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-10" value="synchronization process" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1ZmeKRflZKj2q6ikAiIA-6" target="1ZmeKRflZKj2q6ikAiIA-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-6" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" parent="1" vertex="1">
+          <mxGeometry x="310" y="230" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-7" value="Redo Logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="295" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-9" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.log_files;" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-11" value="Apply Redo Logs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="550" y="280" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-12" value="Primary Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="210" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-13" value="Stand-by Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="620" y="232" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1ZmeKRflZKj2q6ikAiIA-9" target="1ZmeKRflZKj2q6ikAiIA-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="202" />
+              <mxPoint x="620" y="202" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-15" value="&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;synchronized using a process called redo apply or SQL apply&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;This process can take 15mins or 30mins or hours.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;strokeColor=default;" parent="1" vertex="1">
+          <mxGeometry x="330" y="320" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-16" value="&lt;span style=&quot;&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot; dir=&quot;ltr&quot;&gt;&lt;p&gt;Redo Apply (Physical Standby):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;The primary database generates redo logs that record changes to the database.&lt;/li&gt;&lt;li&gt;These redo logs are transmitted to the standby database.&lt;/li&gt;&lt;li&gt;The standby database applies these redo logs to maintain an exact copy of the primary database.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;SQL Apply (Logical Standby):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Similar to redo apply, but instead of applying the redo logs directly, SQL apply transforms the changes into SQL statements and replays them on the standby database.&lt;/li&gt;&lt;li&gt;This allows for more flexibility, such as having different indexes or schemas on the standby database&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#ca1212;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+          <mxGeometry x="170" y="403" width="680" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1ZmeKRflZKj2q6ikAiIA-17" target="1ZmeKRflZKj2q6ikAiIA-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
+          <mxGeometry x="890" y="170" width="114.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1ZmeKRflZKj2q6ikAiIA-19" value="HVR Reads Changes from Stand-by" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="740" y="170" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
